@@ -1,2 +1,2 @@
 # vectorcraft-releases
-Mak Vector — downloads (installers only)
+My Draw — downloads (installers only)
